@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asonc
 - 👀 I’m interested in backend devoleper
 - 🌱 I’m currently learning java c python php and html/css
-- 💞️ I’m looking to collaborate on statup de devloppement
+- 💞️ I’m looking to collaborate on startup de devloppement
 - 📫 How to reach me 
 
 <!---
